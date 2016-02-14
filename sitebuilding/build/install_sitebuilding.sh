@@ -1,0 +1,1 @@
+drush site-install wizzlern_dtd_site_building --db-url=mysql://dtd:dtd@localhost/sitebuilding --locale=nl --account-mail=dtd@dtd.local --account-name=dtd --account-pass=dtd --site-mail=dtd@dtd.local --site-name='Site Building' --uri=sitebuilding.dtd -y
